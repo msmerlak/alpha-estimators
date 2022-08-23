@@ -1,0 +1,9 @@
+name = "AlphaEstimators"
+uuid = "a696c12e-7aee-47aa-9dc9-d73285da5d09"
+authors = ["Matteo Smerlak <matteo.smerlak@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+HypothesisTests = "09f84164-cd44-5f33-b23f-e6b0d136a0d5"
+StatsPlots = "f3b207a7-027a-5e70-b257-86293d7955fd"
